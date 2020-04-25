@@ -19,6 +19,14 @@
     <string name="eq_text2">Pop</string>
     <string name="eq_user">Custom</string>
 	
+    <string name="factory_input4">User Interface Selection</string>
+    <string name="factory_mapkey">Map Key Selection</string>
+    <string name="factory_mapkey1">Android Navigation</string>
+    <string name="factory_mapkey2">Car Navigation</string>
+    <string name="factory_modekey">Mode Key Selection</string>
+	
+    <string name="factory_nbt2">Harman Kardon</string>
+	
     <string name="factory_yuyinkey2">Short press does nothing, long press opens navigation</string>
     <string name="factory_yuyinkey3">Short press opens Voice Command, long press opens navigation</string>
     <string name="factory_yuyinkey4">Short press opens navigation, long press does nothing</string>
@@ -30,9 +38,10 @@
 
     <string name="string_is_this_logo">Are you sure you would like to use this as your boot logo?</string>
     <string name="string_set_logo_over">The boot logo has been set successfully!</string>
-    <string name="text_logo_input_msg">Do you want to import the new Logo file?</string>
-    <string name="text_logo_input_non">No Logo file!</string>
-    <string name="text_logo_input_ok">Imported successfully!</string>
+	
+    <string name="text_logo_input_msg">Are you sure you would like to import this as your boot logo?</string>
+    <string name="text_logo_input_non">No logo file found</string>
+    <string name="text_logo_input_ok">Logo imported successfully!</string>
 	
     <string name="string_sele_apk">Choose APK</string>
    

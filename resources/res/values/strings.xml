@@ -12,7 +12,7 @@
     <string name="update_mcu_file">Are you sure you want to upgrade the MCU?</string>
 	
     <string name="dialog_update7">Error loading upgrade file</string>
-    <string name="dialog_update8">Please DO NOT power off or restart the car during the upgrade process!</string>
+    <string name="dialog_update8">Please do not power off or restart the car during the upgrade process!</string>
     <string name="dialog_update9">Configuration saved. Please restart the monitor in 10 seconds!</string>
 	
     <string name="eq_text1">Custom</string>
@@ -37,11 +37,11 @@
     <string name="set_text9">Navigation app selection</string>
 
     <string name="string_is_this_logo">Are you sure you would like to use this as your boot logo?</string>
-    <string name="string_set_logo_over">The boot logo has been set successfully!</string>
+    <string name="string_set_logo_over">The boot logo has been set!</string>
 	
     <string name="text_logo_input_msg">Are you sure you would like to import this as your boot logo?</string>
     <string name="text_logo_input_non">No logo file found</string>
-    <string name="text_logo_input_ok">Logo imported successfully!</string>
+    <string name="text_logo_input_ok">Logo imported!</string>
 	
     <string name="string_sele_apk">Choose APK</string>
    
